@@ -77,6 +77,6 @@ This project has been developed in the final round of *Barclays India Hackathon 
 The contributors to the project and this repository are :
 
 Mr. Saksham Tikoo<br>
-Ms. Mahek Nakhua<br>
+Ms. Mahek Nakhua<br> 
 
 
